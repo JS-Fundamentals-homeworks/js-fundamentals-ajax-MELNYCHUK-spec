@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "node-fetch": "^3.3.2",
-    "puppeteer": "^21.4.1"
+    "prettier": "^3.6.2",
+    "puppeteer": "^21.4.1",
+    "save-dev": "^0.0.1-security"
   }
 }
